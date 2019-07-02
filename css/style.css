@@ -14,7 +14,6 @@ body {
 	justify-content: center;
 	align-items: center;
 	font-family: Arial, Helvetica, sans-serif;
-	
 }
 
 .card {
@@ -35,6 +34,7 @@ body {
 	font-weight: normal;
 	font-size: 36px;
 }
+
 .person__photo {
 	width: 148px;
 	border-radius: 50%;
